@@ -3,6 +3,8 @@ Java NoSQL Embedded Database Architecture
 In an era where data security and efficient in-application data management are paramount, we present a robust library designed to implement an in-application/memory database (Embedded Database System) for Java applications. This library is engineered to offer a secure, performant, and easy-to-use embedded database solution that eschews traditional SQL in favor of a NoSQL architecture, providing a fortified defense against SQL-based attacks.
 
 ##Key Features:##
+
+
 In-Memory Data Management:
 
 Speed and Efficiency: The library operates entirely in-memory, ensuring lightning-fast data access and manipulation without the need for disk I/O.
