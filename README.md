@@ -14,22 +14,34 @@ Enhanced Security:
 
 NoSQL Architecture: The NoSQL-based design eliminates the risk of SQL injection attacks, a common vulnerability in SQL-based systems.
 
-Custom Serialization: To access, view, or alter the data, one must possess all the required class files. These can be custom-designed to prevent illegal deserialization, ensuring that unauthorized users cannot tamper with the data even if they gain access to the application server.
+Custom Serialization: 
 
-Isolation: Data is isolated within the application, providing an additional layer of security by preventing external access.
+To access, view, or alter the data, one must possess all the required class files. These can be custom-designed to prevent illegal deserialization, ensuring that unauthorized users cannot tamper with the data even if they gain access to the application server.
+
+Isolation: 
+
+Data is isolated within the application, providing an additional layer of security by preventing external access.
 Seamless Integration:
 
-Embedded Database: The library integrates seamlessly as an embedded database within your Java application, eliminating the need for external database servers.
+Embedded Database: 
 
-Direct Data Parsing: The library includes classes and functions to parse .dbo files directly into the application, enabling straightforward data access and manipulation.
+The library integrates seamlessly as an embedded database within your Java application, eliminating the need for external database servers.
+
+Direct Data Parsing: 
+
+The library includes classes and functions to parse .dbo files directly into the application, enabling straightforward data access and manipulation.
 
 Flexible Data Handling:
 
 2D Array Conversion: Data can be directly converted to 2D arrays, facilitating easy manipulation and analysis within the application.
-Customizable Data Structures: The library supports flexible data structures, allowing developers to tailor data management to their specific needs.
-Single Server Architecture:
 
-Compute + Storage Optimization: The library is optimized for a single server that handles both compute and storage, simplifying the architecture and reducing overhead.
+Customizable Data Structures:
+
+ The library supports flexible data structures, allowing developers to tailor data management to their specific needs.
+
+Single Server Architecture:Compute + Storage Optimization: 
+
+The library is optimized for a single server that handles both compute and storage, simplifying the architecture and reducing overhead.
 Simplified Deployment: By consolidating compute and storage, the deployment process is streamlined, reducing the complexity and potential points of failure.
 
 
