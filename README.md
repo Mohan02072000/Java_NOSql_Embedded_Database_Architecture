@@ -64,6 +64,7 @@ Serialization: Custom serialization to prevent unauthorized access and ensure da
 Integration: Designed to be embedded within Java applications with minimal configuration.
 
 ##Getting Started##
+
 Installation: Include the library in your project's dependencies.
 
 Configuration: Configure the database settings within your application.
